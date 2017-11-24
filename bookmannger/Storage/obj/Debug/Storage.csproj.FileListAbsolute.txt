@@ -1,0 +1,14 @@
+C:\Training\Personal\shrawan\c#project\bookmannger\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache
+C:\Training\Personal\shrawan\c#project\bookmannger\Storage\bin\Debug\Storage.dll
+C:\Training\Personal\shrawan\c#project\bookmannger\Storage\bin\Debug\Storage.pdb
+C:\Training\Personal\shrawan\c#project\bookmannger\Storage\bin\Debug\businessLayer.dll
+C:\Training\Personal\shrawan\c#project\bookmannger\Storage\bin\Debug\businessLayer.pdb
+C:\Training\Personal\shrawan\c#project\bookmannger\Storage\obj\Debug\Storage.dll
+C:\Training\Personal\shrawan\c#project\bookmannger\Storage\obj\Debug\Storage.pdb
+C:\Training\Personal\shrawan\old\c#project\bookmannger\Storage\bin\Debug\Storage.dll
+C:\Training\Personal\shrawan\old\c#project\bookmannger\Storage\bin\Debug\Storage.pdb
+C:\Training\Personal\shrawan\old\c#project\bookmannger\Storage\bin\Debug\businessLayer.dll
+C:\Training\Personal\shrawan\old\c#project\bookmannger\Storage\bin\Debug\businessLayer.pdb
+C:\Training\Personal\shrawan\old\c#project\bookmannger\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache
+C:\Training\Personal\shrawan\old\c#project\bookmannger\Storage\obj\Debug\Storage.dll
+C:\Training\Personal\shrawan\old\c#project\bookmannger\Storage\obj\Debug\Storage.pdb

@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="LibraryWeb.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>LIBARY MASTER PAGE</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script  runat="server">
+        public void Page_Load(Object sender, EventArgs e)
+        {
+            //Print the time when the page loaded initially
+            Response.Write("The Page Loaded at: " + DateTime.Now.ToLongTimeString());
+        }
+
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id='mainBody'>
+            <h1>Officeclip web library 
+            </h1>
+            <br />
+            <h3>Applacation </h3>
+           
+
+            <br />
+            <br />
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    <!-- ContentPlaceHolder is used to enable the pages which uses this page as master page, to place their contents -->
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

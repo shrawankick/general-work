@@ -1,0 +1,10 @@
+C:\Training\Personal\shrawan\c#project\bookmannger\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Training\Personal\shrawan\c#project\bookmannger\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Training\Personal\shrawan\c#project\bookmannger\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Training\Personal\shrawan\c#project\bookmannger\ConsoleApplication1\bin\Debug\businessLayer.dll
+C:\Training\Personal\shrawan\c#project\bookmannger\ConsoleApplication1\bin\Debug\Storage.dll
+C:\Training\Personal\shrawan\c#project\bookmannger\ConsoleApplication1\bin\Debug\businessLayer.pdb
+C:\Training\Personal\shrawan\c#project\bookmannger\ConsoleApplication1\bin\Debug\Storage.pdb
+C:\Training\Personal\shrawan\c#project\bookmannger\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Training\Personal\shrawan\c#project\bookmannger\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Training\Personal\shrawan\c#project\bookmannger\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

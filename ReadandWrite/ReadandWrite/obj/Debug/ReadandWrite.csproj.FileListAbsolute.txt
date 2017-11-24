@@ -1,0 +1,6 @@
+C:\Training\Personal\shrawan\ReadandWrite\ReadandWrite\bin\Debug\ReadandWrite.exe.config
+C:\Training\Personal\shrawan\ReadandWrite\ReadandWrite\bin\Debug\ReadandWrite.exe
+C:\Training\Personal\shrawan\ReadandWrite\ReadandWrite\bin\Debug\ReadandWrite.pdb
+C:\Training\Personal\shrawan\ReadandWrite\ReadandWrite\obj\Debug\ReadandWrite.csprojResolveAssemblyReference.cache
+C:\Training\Personal\shrawan\ReadandWrite\ReadandWrite\obj\Debug\ReadandWrite.exe
+C:\Training\Personal\shrawan\ReadandWrite\ReadandWrite\obj\Debug\ReadandWrite.pdb

@@ -1,0 +1,10 @@
+C:\Training\Personal\shrawan\c#project\bookmannger\businessLayer\bin\Debug\businessLayer.dll
+C:\Training\Personal\shrawan\c#project\bookmannger\businessLayer\bin\Debug\businessLayer.pdb
+C:\Training\Personal\shrawan\c#project\bookmannger\businessLayer\obj\Debug\businessLayer.dll
+C:\Training\Personal\shrawan\c#project\bookmannger\businessLayer\obj\Debug\businessLayer.pdb
+C:\Training\Personal\shrawan\c#project\bookmannger\businessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Training\Personal\shrawan\old\c#project\bookmannger\businessLayer\bin\Debug\businessLayer.dll
+C:\Training\Personal\shrawan\old\c#project\bookmannger\businessLayer\bin\Debug\businessLayer.pdb
+C:\Training\Personal\shrawan\old\c#project\bookmannger\businessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Training\Personal\shrawan\old\c#project\bookmannger\businessLayer\obj\Debug\businessLayer.dll
+C:\Training\Personal\shrawan\old\c#project\bookmannger\businessLayer\obj\Debug\businessLayer.pdb

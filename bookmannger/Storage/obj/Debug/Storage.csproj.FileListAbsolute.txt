@@ -12,3 +12,11 @@ C:\Training\Personal\shrawan\old\c#project\bookmannger\Storage\bin\Debug\busines
 C:\Training\Personal\shrawan\old\c#project\bookmannger\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache
 C:\Training\Personal\shrawan\old\c#project\bookmannger\Storage\obj\Debug\Storage.dll
 C:\Training\Personal\shrawan\old\c#project\bookmannger\Storage\obj\Debug\Storage.pdb
+C:\Shrawan\general-work\bookmannger\Storage\bin\Debug\Storage.dll
+C:\Shrawan\general-work\bookmannger\Storage\bin\Debug\Storage.pdb
+C:\Shrawan\general-work\bookmannger\Storage\bin\Debug\businessLayer.dll
+C:\Shrawan\general-work\bookmannger\Storage\bin\Debug\businessLayer.pdb
+C:\Shrawan\general-work\bookmannger\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache
+C:\Shrawan\general-work\bookmannger\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Shrawan\general-work\bookmannger\Storage\obj\Debug\Storage.dll
+C:\Shrawan\general-work\bookmannger\Storage\obj\Debug\Storage.pdb

@@ -6,14 +6,29 @@ Packages
 Install-Package Selenium.WebDriver -Version 3.11.0
 Install-Package Selenium.Chrome.WebDriver -Version 2.37.0
 Install-Package NUnit -Version 3.10.1
-Install-Package NUnit3TestAdapter -Version 3.10.0
+Install-Package NUnit3TestAdapter -Version 3.10.0 
 
 -------------------------------
+other packages 
+<packages>
+  <package id="Ghpr.Core" version="0.7.0" targetFramework="net452" />
+  <package id="Ghpr.NUnit" version="0.6.0" targetFramework="net452" />
+  <package id="Newtonsoft.Json" version="10.0.3" targetFramework="net452" />
+  <package id="NUnit" version="3.7.1" targetFramework="net452" />
+  <package id="NUnit.Engine" version="3.7.0" targetFramework="net452" />
+  <package id="NUnitTestAdapter" version="2.1.1" targetFramework="net452" />
+  <package id="ReportUnit" version="1.5.0-beta1" targetFramework="net452" />
+  <package id="Selenium.Firefox.WebDriver" version="0.18.0" targetFramework="net452" />
+  <package id="Selenium.Support" version="3.5.1" targetFramework="net452" />
+  <package id="Selenium.WebDriver" version="3.5.1" targetFramework="net452" />
+  <package id="Selenium.WebDriver.ChromeDriver" version="2.31.0" targetFramework="net452" />
+</packages>
+
 
 driver.FindElement(By.XPath("//*[contains(@id,'btnNewNoteBook')]"));
 
 
-			public string popupWindowHandle;
+public string popupWindowHandle;
 
 creating window handle
 			//string windowHandle = driver.CurrentWindowHandle;

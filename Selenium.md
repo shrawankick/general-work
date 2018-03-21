@@ -25,6 +25,11 @@ other packages
 </packages>
 
 
+
+Xpath
+    http://scraping.pro/res/xpath-cheat/xpath_css_dom_ref.pdf
+    https://devhints.io/xpath
+
 driver.FindElement(By.XPath("//*[contains(@id,'btnNewNoteBook')]"));
 
 

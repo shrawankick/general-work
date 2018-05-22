@@ -139,5 +139,70 @@ click with dropdownlist
   we can use this for ddl 
      driver.FindElement(By.CssSelector("span.rfdSelectText")).Click();        
      driver.FindElement(By.XPath("//*[@id=\"ddlUsers\"]/option[2]")).Click();
-	 -------------------
-  
+	 ------------------
+
+    How to slow the test till the element loads in the page 
+
+     private IWebDriver _driver;
+
+        public IWebDriver driver
+        {
+            get
+            {
+                Thread.Sleep(500);
+                return _driver;
+            }
+
+            set
+            { _driver = value; }
+        }
+
+add this in base calss 
+
+
+xpath
+//a[contains(@id,'ctl04_hypGetDetails')]
+            key,"value"
+
+ #region screenshot 
+        ///// <summary>
+        ///// </summary>
+        //protected void screenShortMethod()
+        //{
+        //    var firingDriver = new EventFiringWebDriver(new ChromeDriver());
+
+        //    // firingDriver.ExceptionThrown += firingDriver_GetTxtOnException;
+        //    firingDriver.ExceptionThrown += firingDriver_TakeScreenshotOnException;
+        //    driver = firingDriver;
+        //}
+
+        ///// <summary>
+        ///// </summary>
+        ///// <param name="sender"></param>
+        ///// <param name="e">Exception</param>
+        //protected void firingDriver_TakeScreenshotOnException(object sender, WebDriverExceptionEventArgs e)
+        //{
+        //    var timestamp = DateTime.UtcNow.ToString("yyyy-MM-ddTHH-mm-ss.fff");
+        //    var filePath = "C:\\Users\\shraw\\Desktop\\Selenium_Screenshort\\"; //"C:\\temp\\";
+        //    var expname = e.ThrownException.Message;
+        //    var LineNumber = e.ThrownException.StackTrace;
+        //    var test = sender.ToString();
+        //    var exceptionData = e.ThrownException;
+        //    var msg = expname.Substring(0, expname.IndexOf("\n"));
+        //    var fileName = filePath + msg + "_Exception-" + timestamp + ".txt";
+
+        //    if (expname.Contains("\n"))
+        //    {
+        //        //var msg = expname.Substring(0, expname.IndexOf("\n"));
+        //        // add screenshort
+        //        driver.TakeScreenshot().SaveAsFile(filePath + msg + "_Exception-" + timestamp + ".png", ImageFormat.Png);
+        //        //adds text file 
+        //        File.WriteAllText(fileName, exceptionData.ToString());
+        //    }
+        //    // add screenshort 
+        //    driver.TakeScreenshot().SaveAsFile(filePath + expname + "_Exception-" + timestamp + ".png", ImageFormat.Png);
+        //    //adds text file 
+        //    File.WriteAllText(fileName, exceptionData.ToString());
+        //}
+#endregion
+          
